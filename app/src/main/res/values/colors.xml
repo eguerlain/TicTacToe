@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="christmasBackground">#589147</color>
+    <color name="easterBackground">#c964b0</color>
+    <color name="beachBackground">#ffe520</color>
+    <color name="nightBackground">#353535</color>
+
+
+    <color name="christmasText">#ff3f48</color>
+    <color name="ticTacToe">#000000</color>
+    <color name="easterText">#53c7ff</color>
+    <color name="beachText">#2892d2</color>
+    <color name="nightText">#ff9cde</color>
+</resources>
